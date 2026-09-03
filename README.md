@@ -1,4 +1,4 @@
-# Human Behavior and Built Environments Drive Influenza Seasonality in the US
+# Human Behavior and Built Environments Shape Influenza Seasonality in the US
 
 ## Authors
 
@@ -15,7 +15,7 @@
 
 This repository contains the code (and processed datasets, to be added) supporting the manuscript:
 
-**Human Behavior and Built Environments Drive Influenza Seasonality in the US.**
+**Human Behavior and Built Environments Shape Influenza Seasonality in the US.**
 
 The study investigates how human behavioral patterns and built environment characteristics jointly shape the timing and spatial structure of influenza seasonality across the United States.
 
@@ -54,6 +54,6 @@ We implemented generalized linear regression models to quantify the associations
 If you use this code, please cite:
 
 Pullano G, Tiu A, Srebric J, Milton DK, Marr LC, Bansal S.  
-*Human Behavior and Built Environments Drive Influenza Seasonality in the US.*
+*Human Behavior and Built Environments Shape Influenza Seasonality in the US.*
 
 (Full citation will be updated upon publication.)
