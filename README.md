@@ -22,7 +22,8 @@ The study investigates how human behavioral patterns and built environment chara
 Specifically, we integrate:
 
 - School calendar timing  
-- Human mobility networks  
+- Human mobility networks
+- Contact rates 
 - Indoor ventilation dynamics  
 - Weather variability  
 - Housing characteristics  
